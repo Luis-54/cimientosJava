@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Functions",
+            "request": "launch",
+            "mainClass": "Functions",
+            "projectName": "Java Basico_f565a82c"
+        },
+        {
+            "type": "java",
+            "name": "condicionales",
+            "request": "launch",
+            "mainClass": "condicionales",
+            "projectName": "Java Basico_f565a82c"
+        },
+        {
+            "type": "java",
+            "name": "sobrrecarga",
+            "request": "launch",
+            "mainClass": "sobrrecarga",
+            "projectName": "Java Basico_f565a82c"
+        }
+    ]
+}
